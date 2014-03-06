@@ -1,0 +1,202 @@
+[
+    {
+        "st_ctime": 1386219049, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383384125, 
+        "mime": "*/*", 
+        "st_size": 6630, 
+        "path": "131102.ini"
+    }, 
+    {
+        "st_ctime": 1386219056, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1383585872, 
+        "mime": "text/plain", 
+        "st_size": 2096, 
+        "path": "131103.txt"
+    }, 
+    {
+        "st_ctime": 1386219057, 
+        "info": "XML 1.0 document text", 
+        "st_mtime": 1383588112, 
+        "mime": "text/xml", 
+        "st_size": 17211, 
+        "path": "131103.xml"
+    }, 
+    {
+        "st_ctime": 1386219072, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383590089, 
+        "mime": "*/*", 
+        "st_size": 7040, 
+        "path": "131104.ini"
+    }, 
+    {
+        "st_ctime": 1386219072, 
+        "info": "XML 1.0 document text", 
+        "st_mtime": 1383589935, 
+        "mime": "text/xml", 
+        "st_size": 17143, 
+        "path": "131104.xml"
+    }, 
+    {
+        "st_ctime": 1388384348, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1386159766, 
+        "mime": "text/xml", 
+        "st_size": 19935, 
+        "path": "131204.xml"
+    }, 
+    {
+        "st_ctime": 1388412917, 
+        "info": "UTF-8 Unicode (with BOM) text, with very long lines", 
+        "st_mtime": 1386169813, 
+        "mime": "*/*", 
+        "st_size": 8845, 
+        "path": "131205.ini"
+    }, 
+    {
+        "st_ctime": 1388412917, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1386939602, 
+        "mime": "text/plain", 
+        "st_size": 13622, 
+        "path": "131205.txt"
+    }, 
+    {
+        "st_ctime": 1388412917, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1386936576, 
+        "mime": "text/xml", 
+        "st_size": 21322, 
+        "path": "131205.xml"
+    }, 
+    {
+        "st_ctime": 1392946609, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1388415006, 
+        "mime": "text/xml", 
+        "st_size": 21736, 
+        "path": "131230.xml"
+    }, 
+    {
+        "st_ctime": 1386219016, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383296613, 
+        "mime": "*/*", 
+        "st_size": 9522, 
+        "path": "20130805.ini"
+    }, 
+    {
+        "st_ctime": 1386219031, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383329767, 
+        "mime": "*/*", 
+        "st_size": 6246, 
+        "path": "20130808.ini"
+    }, 
+    {
+        "st_ctime": 1388384338, 
+        "info": "UTF-8 Unicode text, with very long lines", 
+        "st_mtime": 1385921161, 
+        "mime": "text/xml", 
+        "st_size": 4400, 
+        "path": "ac.xml"
+    }, 
+    {
+        "st_ctime": 1386935724, 
+        "info": "XML document text", 
+        "st_mtime": 1383226769, 
+        "mime": "text/xml", 
+        "st_size": 5358, 
+        "path": "default.xml"
+    }, 
+    {
+        "st_ctime": 1386219016, 
+        "info": "UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators", 
+        "st_mtime": 1359438562, 
+        "mime": "text/plain", 
+        "st_size": 3912, 
+        "path": "Emoji.BIME.txt"
+    }, 
+    {
+        "st_ctime": 1386219016, 
+        "info": "UTF-8 Unicode (with BOM) text, with very long lines, with CRLF line terminators", 
+        "st_mtime": 1383192306, 
+        "mime": "text/plain", 
+        "st_size": 20373, 
+        "path": "EmojiOnG+.txt"
+    }, 
+    {
+        "st_ctime": 1386219075, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1383590827, 
+        "mime": "text/xml", 
+        "st_size": 35096, 
+        "path": "KT.131104.xml"
+    }, 
+    {
+        "st_ctime": 1388384348, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1386159692, 
+        "mime": "text/xml", 
+        "st_size": 38889, 
+        "path": "KT.131204.xml"
+    }, 
+    {
+        "st_ctime": 1388412917, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1386170059, 
+        "mime": "text/xml", 
+        "st_size": 41888, 
+        "path": "KT.131205.xml"
+    }, 
+    {
+        "st_ctime": 1386219039, 
+        "info": "XML document text", 
+        "st_mtime": 1383380795, 
+        "mime": "text/xml", 
+        "st_size": 5358, 
+        "path": "KT.xml"
+    }, 
+    {
+        "st_ctime": 1386219034, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1383374607, 
+        "mime": "text/xml", 
+        "st_size": 22508, 
+        "path": "KT1.xml"
+    }, 
+    {
+        "st_ctime": 1386219027, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1383326283, 
+        "mime": "text/xml", 
+        "st_size": 23280, 
+        "path": "KT2.xml"
+    }, 
+    {
+        "st_ctime": 1386219025, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1383323567, 
+        "mime": "text/xml", 
+        "st_size": 34629, 
+        "path": "KTTest.xml"
+    }, 
+    {
+        "st_ctime": 1386935759, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines, with CRLF, CR line terminators", 
+        "st_mtime": 1383294738, 
+        "mime": "*/*", 
+        "st_size": 4252, 
+        "path": "sym.ini"
+    }, 
+    {
+        "st_ctime": 1386219036, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383374607, 
+        "mime": "*/*", 
+        "st_size": 3310, 
+        "path": "test.ini"
+    }
+]

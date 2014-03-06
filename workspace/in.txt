@@ -1,0 +1,26 @@
+(っ*'ω'*c)﻿
+1Adam Queen's profile photoJobin Wen's profile photoCrazyx Cheung's profile photo
+Hide comments
+
+Crazyx Cheung4:17 PM+1
+2
+1
+ 
+ 
+(っ*'ω'*c)﻿
+
+Adam Queen4:18 PM+2
+1
+2
+ 
+ 
+(っ*罒ω罒*c)﻿
+
+Jobin Wen4:20 PM
+ 
+(っ*ԾωԾ*c)﻿
+
+repeated pattern (っ*'ω'*c) = (っ*'ω'*c) skipped
+"'ω'*c)" in full : "'ω'*c)" ,  matches (っ*'ω'*c) , h=1.0
+"(っ*罒ω罒*c)" in full : "(っ*罒ω罒*c)" ,  matches (っ*'ω'*c) , h=0.611111111111
+"(っ*Ծω" in full : "(っ*Ծω" ,  matches (っ*'ω'*c) , h=0.65

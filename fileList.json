@@ -1,0 +1,178 @@
+[
+    {
+        "st_ctime": 1388509193, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1388509193, 
+        "mime": "*/*", 
+        "st_size": 7478, 
+        "path": "131230.ini"
+    }, 
+    {
+        "st_ctime": 1388415006, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1388415006, 
+        "mime": "text/plain", 
+        "st_size": 13806, 
+        "path": "131230.txt"
+    }, 
+    {
+        "st_ctime": 1392946986, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1392691360, 
+        "mime": "text/xml", 
+        "st_size": 18693, 
+        "path": "131230.xml"
+    }, 
+    {
+        "st_ctime": 1392946986, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1392694323, 
+        "mime": "*/*", 
+        "st_size": 12768, 
+        "path": "140218.ini"
+    }, 
+    {
+        "st_ctime": 1392946986, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1392694320, 
+        "mime": "text/plain", 
+        "st_size": 11905, 
+        "path": "140218.txt"
+    }, 
+    {
+        "st_ctime": 1392946986, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1392694411, 
+        "mime": "text/xml", 
+        "st_size": 20848, 
+        "path": "140218.xml"
+    }, 
+    {
+        "st_ctime": 1392946987, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1392695404, 
+        "mime": "*/*", 
+        "st_size": 12746, 
+        "path": "_Current.ini"
+    }, 
+    {
+        "st_ctime": 1392947001, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1392694677, 
+        "mime": "text/xml", 
+        "st_size": 20848, 
+        "path": "_Current.xml"
+    }, 
+    {
+        "st_ctime": 1392947002, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1392694676, 
+        "mime": "text/xml", 
+        "st_size": 39217, 
+        "path": "_KT_Current.xml"
+    }, 
+    {
+        "st_ctime": 1392947001, 
+        "info": "UTF-8 Unicode (with BOM) text, with CRLF line terminators", 
+        "st_mtime": 1392692632, 
+        "mime": "text/plain", 
+        "st_size": 7792, 
+        "path": "baidu_sym2.txt"
+    }, 
+    {
+        "st_ctime": 1383381396, 
+        "info": "Little-endian UTF-16 Unicode text, with very long lines", 
+        "st_mtime": 1383381396, 
+        "mime": "*/*", 
+        "st_size": 3374, 
+        "path": "baiduIME.template"
+    }, 
+    {
+        "st_ctime": 1388506090, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1383384125, 
+        "mime": "text/xml", 
+        "st_size": 32092, 
+        "path": "default.baiduTemplate.xml"
+    }, 
+    {
+        "st_ctime": 1392947061, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1392694287, 
+        "mime": "text/xml", 
+        "st_size": 48860, 
+        "path": "default2.baiduTemplate.xml"
+    }, 
+    {
+        "st_ctime": 1392946985, 
+        "info": "UTF-8 Unicode (with BOM) text, with CRLF line terminators", 
+        "st_mtime": 1392689757, 
+        "mime": "*/*", 
+        "st_size": 849, 
+        "path": "dir-info"
+    }, 
+    {
+        "st_ctime": 1388509111, 
+        "info": "Python script, ASCII text executable", 
+        "st_mtime": 1388509111, 
+        "mime": "text/x-python", 
+        "st_size": 1345, 
+        "path": "IMESymConv.py"
+    }, 
+    {
+        "st_ctime": 1388408583, 
+        "info": "Python script, UTF-8 Unicode text executable", 
+        "st_mtime": 1388408583, 
+        "mime": "text/x-python", 
+        "st_size": 7582, 
+        "path": "IMESymGrabber.py"
+    }, 
+    {
+        "st_ctime": 1388415006, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1388415006, 
+        "mime": "text/xml", 
+        "st_size": 42589, 
+        "path": "KT.131230.xml"
+    }, 
+    {
+        "st_ctime": 1392946987, 
+        "info": "ASCII text, with very long lines", 
+        "st_mtime": 1392694320, 
+        "mime": "text/xml", 
+        "st_size": 39217, 
+        "path": "KT.140218.xml"
+    }, 
+    {
+        "st_ctime": 1393950804, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1393950804, 
+        "mime": "text/plain", 
+        "st_size": 796, 
+        "path": "new.txt"
+    }, 
+    {
+        "st_ctime": 1388409297, 
+        "info": "UTF-8 Unicode text", 
+        "st_mtime": 1388409297, 
+        "mime": "text/plain", 
+        "st_size": 2618, 
+        "path": "readme.txt"
+    }, 
+    {
+        "st_ctime": 1388509028, 
+        "info": "Python script, UTF-8 Unicode text executable", 
+        "st_mtime": 1388509028, 
+        "mime": "text/x-python", 
+        "st_size": 6574, 
+        "path": "symbolConvert.py"
+    }, 
+    {
+        "st_ctime": 1388509035, 
+        "info": "python 2.7 byte-compiled", 
+        "st_mtime": 1388509035, 
+        "mime": "application/x-python-code", 
+        "st_size": 7209, 
+        "path": "symbolConvert.pyc"
+    }
+]
